@@ -1,4 +1,4 @@
-    # Möbius Strip Modeling in Python 
+    # MobiusStrip Modeling in Python 
 
     Python script that models a Mobius strip using parametric equations and computes 
     key geometric properties.
